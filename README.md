@@ -65,9 +65,9 @@
 ---
 
 ## 🛠️ Skills & Tools
-- Verilog / SystemVerilog
-- Digital Design, VLSI (or replace with your own)
-- Python, C,html/css
+- Embedded System
+- Digital Design, Analog electronics
+- C,html/css,embedded C
 
 ---
 
